@@ -13,7 +13,6 @@ library("arsenal")
 library("sqldf")
 
 
-
 # 1. Lea adecuadamente las bases de datos. Vea el siguiente ejemplo y lea los datos para el 2015, etc
 # de los años 2015 hasta el año 2018.
 
